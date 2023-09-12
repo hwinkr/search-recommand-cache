@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './pages/Home';
-import GlobalStyleProvider from './types/GlobalStyleProvider';
+import GlobalStyleProvider from './styles/GlobalStyleProvider';
 
 function App() {
   return (
